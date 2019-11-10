@@ -73,12 +73,13 @@ banner {
 	color: white;
 	margin-left: 100px;
 	font-family: Montserrat, sans-serif;
+	font-size: 18;
 }
 
 .section-3-header {
 	position: absolute;
 	right: 0;
-	top: 2000px;
+	top: 1800px;
 	margin-bottom: 0%;
 	margin-right: 50px;
 	font-family: Montserrat, sans-serif;
