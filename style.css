@@ -42,6 +42,7 @@ banner {
 	width: 100%;
 	font-size: 12;
 }
+
 .navigation-text{
 	width: 75%;
 	float: right;
@@ -52,7 +53,6 @@ banner {
 .video {
 	z-index: 1;
 }
-
 
 .section-1-header {
 	position: absolute;
@@ -79,7 +79,7 @@ banner {
 .section-3-header {
 	position: absolute;
 	right: 0;
-	top: 1950px;
+	top: 1830px;
 	margin-bottom: 0%;
 	margin-right: 50px;
 	font-family: Montserrat, sans-serif;
